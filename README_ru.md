@@ -351,11 +351,11 @@ The official rish documentation is available here: https://github.com/RikkaApps/
 ## Обозначения
 
 - `Paid` 💰 - Платное приложение
-- `IAP` 💰 - Contains in-app purchases
-- `Ads` - Contains ads
-- `Proprietary` - Not licensed under a FOSS license. Applies to closed-source software or source-available projects.
-- `n-day trial` - Payment required after `n` days
-- `Root` - Необходим Shizuku запущенный в рэжыме Root
+- `IAP` 💰 - Есть платный контент
+- `Ads` - Есть реклама
+- `Proprietary` - Не лицензируется по лицензии FOSS. Применяется к программам с закрытым исходным кодом или проектам с доступными исходными текстами.
+- `n-day trial` - Необходима покупка после `n` дней использования
+- `Root` - Необходим Shizuku запущенный в режиме Root
 
 --------------------
 
