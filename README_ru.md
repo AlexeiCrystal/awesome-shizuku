@@ -348,7 +348,7 @@ The official rish documentation is available here: https://github.com/RikkaApps/
 
 --------------------
 
-## Annotations
+## Обозначения
 
 - `Paid` 💰 - Paid application
 - `IAP` 💰 - Contains in-app purchases
